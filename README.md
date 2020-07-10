@@ -87,7 +87,7 @@ For example : yes, meh, no
 }
 ```
 
-## Example of polls/[id of the poll]/results/[id of option 1]/result
+## Example of polls/[id of the poll]/results/[id of option 1]/results
 
 ```
 {
