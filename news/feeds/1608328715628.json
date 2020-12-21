@@ -1,0 +1,8 @@
+{
+  "title": "📢 Twitter",
+  "type": "twitter",
+  "consumer_key": "-----BEGIN PGP MESSAGE-----\r\nVersion: OpenPGP.js v4.10.9\r\nComment: https://openpgpjs.org\r\n\r\nwy4ECQMI16X6tF7rY/XgAvKedl/1XAUQhw7gHHQviD4lGVLfJRI6Eosxir3U\r\nNxVQ0lEBciJa2Rmj+eXsqezASUbiGH6bc9uBBIlctFo0sUUtmMoCRnCVNwYp\r\npoXqO9Ax9u9j8bl04iIe/C8nwuPazgPxJp0bKm81Y92G3zq+iikEu9o=\r\n=dTgL\r\n-----END PGP MESSAGE-----",
+  "consumer_secret": "-----BEGIN PGP MESSAGE-----\r\nVersion: OpenPGP.js v4.10.9\r\nComment: https://openpgpjs.org\r\n\r\nwy4ECQMIi0ed1BbG0lDg5GC5QrXmwkKrqjAR0QUEcx6P5IWvRdJZeyZvhElB\r\nsMwG0moBVxMSwkJ5vIIg9DBNO8Fxy+pe5ah3W7RlQ5IGPyPQntJJjfV4aZyu\r\nIBErTCYbdNUmoNc62uxOufZ/kr9PGEW5mZRZhc8scBpzQH3uOpIjpEDFnPQ1\r\nJx2CnDlMcVmMMd8wq2mKhs3NyQoX\r\n=Nu/E\r\n-----END PGP MESSAGE-----",
+  "access_token_key": "-----BEGIN PGP MESSAGE-----\r\nVersion: OpenPGP.js v4.10.9\r\nComment: https://openpgpjs.org\r\n\r\nwy4ECQMIfrj5VvgJ4rDgxpkmRCsBLocIXkd4xcMSAymZrEKws/E2MJPmYsAb\r\n+Gnc0moB252BVJlfkijzCNC1Fip7ofzKFVeml+m/lmc7nRB7+BhPSdfeXIvd\r\n8ByFutp5Z7RqyP+GxOOAtap3Z0Uv6g0Ohl4kDJ5rs+luzHUy9zXNxMDfMWp9\r\nw6npFt0YQHl7IgwbZLTzwhdmYpq8\r\n=lOTP\r\n-----END PGP MESSAGE-----",
+  "access_token_secret": "-----BEGIN PGP MESSAGE-----\r\nVersion: OpenPGP.js v4.10.9\r\nComment: https://openpgpjs.org\r\n\r\nwy4ECQMI4k/7qzyp7argac4dogX0fUp49MomVeGFqaBzRheCUp4iWqDcOoCL\r\ngGy50mUB4fUXVPdA8LlgZV/mU0lr60TGz3J2qNOKHj4j6bbGxvi4t7VFUTUk\r\nNP3rrEWaB6cI561aIR1c+IJUnLKOv6Ik3vkc5fYzaFksWvlqGltPt6TDO0a5\r\nGs0hpMYVRz+1qchwF3pmWQ==\r\n=1z1+\r\n-----END PGP MESSAGE-----"
+}
